@@ -1799,3 +1799,9 @@
 .fa-medium:before {
   content: "\f23a";
 }
+.fa-zillow:before {
+    content: "Z";
+}
+.fa-redfin:before {
+    content: "R";
+}
